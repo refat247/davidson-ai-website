@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://refat247.github.io/davidson-ai-website/sitemap.xml
